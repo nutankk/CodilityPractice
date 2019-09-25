@@ -1,0 +1,6 @@
+/Users/vidheesh/Development/Net/CodilityPractice/CodilityPractice/bin/Debug/CodilityPractice.exe
+/Users/vidheesh/Development/Net/CodilityPractice/CodilityPractice/bin/Debug/CodilityPractice.pdb
+/Users/vidheesh/Development/Net/CodilityPractice/CodilityPractice/obj/x86/Debug/CodilityPractice.csprojAssemblyReference.cache
+/Users/vidheesh/Development/Net/CodilityPractice/CodilityPractice/obj/x86/Debug/CodilityPractice.csproj.CoreCompileInputs.cache
+/Users/vidheesh/Development/Net/CodilityPractice/CodilityPractice/obj/x86/Debug/CodilityPractice.exe
+/Users/vidheesh/Development/Net/CodilityPractice/CodilityPractice/obj/x86/Debug/CodilityPractice.pdb

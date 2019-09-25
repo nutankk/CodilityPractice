@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2F1C93E6-2158-46B9-AAB2-C464F9C8ABA6}|Default">
+  <MonoDevelop.Ide.ItemProperties.CodilityPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodilityPractice/stringmap.cs">
+    <Files>
+      <File FileName="CodilityPractice/NiceArray.cs" Line="1" Column="1" />
+      <File FileName="CodilityPractice/IdenticalIndces.cs" Line="1" Column="1" />
+      <File FileName="CodilityPractice/string.cs" Line="1" Column="1" />
+      <File FileName="CodilityPractice/stringmap.cs" Line="1" Column="1" />
+      <File FileName="CodilityPractice/CountZero.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodilityPractice" expanded="True">
+            <Node name="CodilityPractice" expanded="True">
+              <Node name="stringmap.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
